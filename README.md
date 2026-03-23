@@ -135,8 +135,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yanni-Delattre-Balcer&show_icons=true&theme=github_dark&border_color=0369a1&icon_color=38bdf8&title_color=38bdf8&text_color=cbd5e1&bg_color=0a0f1e&count_private=true&border_radius=10&include_all_commits=true&rank_icon=github&locale=fr" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanni-Delattre-Balcer&layout=compact&theme=github_dark&border_color=0369a1&title_color=38bdf8&text_color=cbd5e1&bg_color=0a0f1e&langs_count=6&border_radius=10" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yanni-Delattre-Balcer&show_icons=true&theme=github_dark&border_color=0369a1&icon_color=38bdf8&title_color=38bdf8&text_color=cbd5e1&bg_color=0a0f1e&count_private=true&border_radius=10&locale=fr" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanni-Delattre-Balcer&layout=compact&theme=github_dark&border_color=0369a1&title_color=38bdf8&text_color=cbd5e1&bg_color=0a0f1e&langs_count=6&border_radius=10&locale=fr" height="160" />
 
 </div>
 
