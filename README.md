@@ -18,7 +18,7 @@
 
 Étudiant en **BUT Réseaux & Télécommunications** à l'IUT de Béthune, spécialisation Cybersécurité. Mon objectif est d'obtenir un **Bac+5 avec une spécialisation en Pentesting** — évaluation de vulnérabilités, tests d'intrusion et sécurité offensive.
 
-En parallèle de mes études, je développe **KduFoot**, une plateforme web full-stack pour l'organisation de matchs de football en salle.
+En parallèle de mes études, je développe **KduFoot**, une plateforme web full-stack pour l'organisation de matchs, ou de tournois.
 
 ---
 
