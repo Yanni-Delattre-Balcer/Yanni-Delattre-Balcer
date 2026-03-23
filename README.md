@@ -6,14 +6,19 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanni-delattre-balcer-73bb573a3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230f172a.svg?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://yanni-delattre-balcer.github.io/portfolio-yannidelattrebalcer/)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannidelattrebalcer.artois@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Yanni-Delattre-Balcer&color=0ea5e9&style=for-the-badge&label=VUES)
+<a href="https://www.linkedin.com/in/yanni-delattre-balcer-73bb573a3/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://yanni-delattre-balcer.github.io/portfolio-yannidelattrebalcer/">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+</a>
+<a href="mailto:yannidelattrebalcer.artois@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=%24+whoami+%E2%86%92+%C3%89tudiant+s%C3%A9curit%C3%A9+%40+IUT+B%C3%A9thune;%24+objectif+%E2%86%92+Bac%2B5+Pentesting+%2B+S%C3%A9curit%C3%A9+Offensive;%24+statut+%E2%86%92+En+cours+d'apprentissage+%7C+En+train+de+construire;%24+projet+%E2%86%92+KduFoot+Full-Stack+en+d%C3%A9veloppement...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=%24+whoami+%E2%86%92+%C3%89tudiant+s%C3%A9curit%C3%A9+%40+IUT+B%C3%A9thune;%24+objectif+%E2%86%92+Bac%2B5+Pentesting+%2B+S%C3%A9curit%C3%A9+Offensive;%24+statut+%E2%86%92+En+cours+d%27apprentissage+%7C+En+train+de+construire;%24+projet+%E2%86%92+Syst%C3%A8me+de+caisse+auto+en+d%C3%A9veloppement...)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,14 +37,13 @@
   école        →  IUT de Béthune — BUT R&T
   parcours     →  Cybersécurité (à partir de l'année 2)
   objectif     →  Bac+5 → Pentesting & Sécurité Offensive
-  projet       →  KduFoot — Plateforme Web Full-Stack
   localisation →  Pas-de-Calais, France 🇫🇷
 
 ╰─$ echo $MENTALITÉ
   → Toujours curieux. Toujours en train d'apprendre.
 ```
 
-> Passionné par l'architecture réseau et la sécurité offensive. Je construis des bases solides en R&T pour me spécialiser en **pentesting** : évaluation de vulnérabilités, tests d'intrusion et sécurité des infrastructures. En dehors des cours, je développe **KduFoot**, une plateforme full-stack pour organiser matchs et tournois de football.
+> Passionné par l'architecture réseau et la sécurité offensive. Je construis des bases solides en R&T pour me spécialiser en **pentesting** : évaluation de vulnérabilités, tests d'intrusion et sécurité des infrastructures. En parallèle, je développe plusieurs projets web allant de petites applications à des systèmes plus complexes comme une **caisse automatique pour petites entreprises**.
 
 ---
 
@@ -102,12 +106,26 @@
 
 ---
 
-## `>_ projets --épinglés`
+## `>_ projets --tous`
 
 <div align="center">
 
 [![KduFoot](https://github-readme-stats.vercel.app/api/pin/?username=Yanni-Delattre-Balcer&repo=KduFoot&theme=github_dark&border_color=0369a1&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0a0f1e)](https://github.com/Yanni-Delattre-Balcer/KduFoot)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Yanni-Delattre-Balcer&repo=portfolio-yannidelattrebalcer&theme=github_dark&border_color=0369a1&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0a0f1e)](https://github.com/Yanni-Delattre-Balcer/portfolio-yannidelattrebalcer)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🚀 Projet | 📋 Description | 🏷 Type | Statut |
+|:---|:---|:---:|:---:|
+| **KduFoot** | Plateforme full-stack — organisation de matchs & tournois de foot | Web | ![wip](https://img.shields.io/badge/EN_COURS-f59e0b?style=flat-square) |
+| **Caisse Automatique** | Système de caisse complet pour petites entreprises | Web / App | ![wip](https://img.shields.io/badge/EN_COURS-f59e0b?style=flat-square) |
+| **Portfolio** | Site portfolio personnel — présentation de mon parcours | Web | ![done](https://img.shields.io/badge/EN_LIGNE-22c55e?style=flat-square) |
+| **Site Coiffeur** | Interface moderne pour un salon à Loison-sous-Lens | Web | ![wip](https://img.shields.io/badge/EN_COURS-f59e0b?style=flat-square) |
+| **Modélisation 3D** | Plans d'extension d'habitation — SketchUp & Sweet Home 3D | Architecture | ![done](https://img.shields.io/badge/TERMIN%C3%89-3b82f6?style=flat-square) |
 
 </div>
 
@@ -122,16 +140,10 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Yanni-Delattre-Balcer&theme=dark&background=0a0f1e&border=0369a1&stroke=0369a1&ring=38bdf8&fire=f59e0b&currStreakNum=e0f2fe&sideNums=e0f2fe&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&border_radius=10&locale=fr)
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=475569&center=true&vCenter=true&repeat=false&width=620&height=30&lines=N'h%C3%A9site+pas+%C3%A0+me+contacter+pour+toute+opportunit%C3%A9+de+stage+%F0%9F%94%90" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=99999&color=475569&center=true&vCenter=true&repeat=false&width=680&height=30&lines=N%27h%C3%A9sitez+pas+%C3%A0+me+contacter+pour+toute+opportunit%C3%A9+de+stage+ou+de+collaboration+%F0%9F%94%90" alt="footer"/>
 
 </div>
