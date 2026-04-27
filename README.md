@@ -43,7 +43,7 @@
   → Toujours curieux. Toujours en train d'apprendre.
 ```
 
-> Passionné par l'architecture réseau et la sécurité offensive. Je construis des bases solides en R&T pour me spécialiser en **pentesting** : évaluation de vulnérabilités, tests d'intrusion et sécurité des infrastructures. En parallèle, je développe plusieurs projets web allant de petites applications à des systèmes plus complexes comme une **caisse automatique pour petites entreprises** ou encore **Kdufoot**.
+> Passionné par l'architecture réseau et la sécurité offensive, je construis des bases solides en R&T pour me spécialiser en **pentesting** : évaluation de vulnérabilités, tests d'intrusion et sécurité des infrastructures. En parallèle, je développe plusieurs projets web allant de petites applications à des systèmes plus complexes comme une **caisse automatique pour petites entreprises "Heryze.com"** ou encore **Kdufoot.com**.
 
 ---
 
